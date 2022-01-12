@@ -103,6 +103,17 @@ function App() {
       >
         About this game
       </button>
+        
+                    <p className="text-sm text-gray-500">
+                      Game Provided by Kevin Games{" "}
+                      <a
+                        href="https://kevin.games/"
+                        className="underline font-bold"
+                      >
+                        check out the code here
+                      </a>
+
+   
     </div>
   );
 }
