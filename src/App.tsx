@@ -110,7 +110,7 @@ function App() {
                         href="https://kevin.games/"
                         className="underline font-bold"
                       >
-                        check out the code here
+                        Wordle 2 is an online puzzle that the whole world is trying to crack. Play the game for free, guess the daily word, and share the result with friends
                       </a>
 
    
