@@ -54,7 +54,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
                   </Dialog.Title>
                   <div className="mt-2">
                     <p className="text-sm text-gray-500">
-                      This is an open source clone of the game Wordle -{" "}
+                      Wordle is an online puzzle that the whole world is trying to crack. Play the game for free, guess the daily word, and share the result with friends -{" "}
                       <a
                         href="https://kevin.games"
                         className="underline font-bold"
