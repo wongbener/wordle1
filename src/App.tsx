@@ -103,15 +103,6 @@ function App() {
       >
         About this game
       </button>
-        
-                    <p className="text-sm text-gray-500">
-                      Game Provided by Kevin Games{" "}
-                      <a
-                        href="https://kevin.games/"
-                        className="underline font-bold"
-                      >
-                        Wordle is an online puzzle that the whole world is trying to crack. Play the game for free, guess the daily word, and share the result with friends
-                      </a>
 
    
     </div>
