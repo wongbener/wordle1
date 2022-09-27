@@ -63,7 +63,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
                       </a>{" "}
                       and{" "}
                       <a
-                        href="https://gamesonline.co.id"
+                        href="https://gameonline.co.id"
                         className="underline font-bold"
                       >
                         Check Other Games Online
