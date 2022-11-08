@@ -56,7 +56,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
                     <p className="text-sm text-gray-500">
                       Wordle is an online puzzle that the whole world is trying to crack. Play the game for free, guess the daily word, and share the result with friends -{" "}
                       <a
-                        href="https://kevin.games"
+                        href="https://gameonline.co.id"
                         className="underline font-bold"
                       >
                         Wordle Game
